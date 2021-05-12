@@ -11,7 +11,7 @@ GO
 
 CREATE PROCEDURE [dbo].[uspFaturamento]
     
-    @dataInicial varchar(15) -- '02/05/2021'
+    @dataInicial varchar(15) -- '02/05/2021' EXEMPLO  DE ENTRADA DE PARAMETRO
       
 AS   
 
